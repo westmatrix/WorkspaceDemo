@@ -1,2 +1,1 @@
-# TypeScriptDemo
-Node+React+TypeScript
+# An simple SPA demo
