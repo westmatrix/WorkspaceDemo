@@ -1,2 +1,2 @@
-# WorkspaceDemo
-Some SPA demo
+# TypeScriptDemo
+Node+React+TypeScript
