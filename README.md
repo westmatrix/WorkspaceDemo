@@ -1,1 +1,1 @@
-# An simple SPA demo
+# An typical SPA demo
