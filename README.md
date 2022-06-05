@@ -1,1 +1,1 @@
-# An typical SPA demo
+# An typical SPA workspace demo
